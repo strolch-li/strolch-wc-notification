@@ -1,7 +1,7 @@
 {
   "name": "strolch-wc-notification",
   "description": "Strolch WebComponent Notification",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "authors": [
     "Robert von Burg"
   ],
@@ -19,7 +19,7 @@
   "homepage": "https://github.com/strolch-li/strolch-wc-notification",
   "ignore": [],
   "dependencies": {
-    "polymer": "Polymer/polymer#^1.11.3",
+    "polymer": "Polymer/polymer#^1.12.0",
 
     "paper-button": "PolymerElements/paper-button#^1.0.15",
     "neon-animation": "PolymerElements/neon-animation#^1.2.5"
